@@ -1,0 +1,15 @@
+var x = 10;
+var y = 20;
+var z = true;
+var myName = "Kanwal";
+var fruits = ["Apple", "Mango", "Banana"];
+console.log("1. x > y => ".concat(x > y));
+console.log("2. x <= y => ".concat(x <= y));
+console.log("3. x == y => ".concat(x == y));
+console.log("4. !z => ".concat(!z));
+console.log("5. name == \"Kanwal\" => ".concat(myName == "Kanwal"));
+console.log("6. fruits.length > 0 => ".concat(fruits.length > 0));
+console.log("7. fruits.length === 0 => ".concat(fruits.length === 0));
+console.log("8. name != \"Kanwal\" => ".concat(myName != "Kanwal"));
+console.log("9. x < y = ".concat(x < y));
+console.log("10. x != y => ".concat(x != y));
