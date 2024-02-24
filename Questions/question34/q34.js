@@ -5,4 +5,4 @@ for (var _i = 0, favPizza_1 = favPizza; _i < favPizza_1.length; _i++) {
 }
 console.log("Pizza, with its origins in Naples, Italy, has evolved into a global culinary icon,\
 showcasing diverse flavors and cultural influences from around the world.");
-console.log("I really  love pizza");
+console.log("I really love pizza");

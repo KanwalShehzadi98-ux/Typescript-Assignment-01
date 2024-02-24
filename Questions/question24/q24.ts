@@ -11,7 +11,7 @@ let colors : string[] = ['Red','Yellow','Green','Blue'];
 console.log(`myName == "Kanwal" => ${myName == "Kanwal"}`);
 console.log(`myName != "Kanwal" => ${myName != "Kanwal"}`);
 
-console.log(`Tests using the lower case function str1 == str2 => ${str1 == str2}`);
+console.log(`Tests using the lower case function str1 == str2 => ${str1.toLowerCase() == str2.toLowerCase()}`);
 
 console.log(`x == y => ${x == y}`);
 console.log(`x != y => ${x != y}`);

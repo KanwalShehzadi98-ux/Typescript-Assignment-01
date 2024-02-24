@@ -6,4 +6,4 @@ for (let i of favPizza) {
 
 console.log("Pizza, with its origins in Naples, Italy, has evolved into a global culinary icon,\
 showcasing diverse flavors and cultural influences from around the world.");
-console.log("I really  love pizza");
+console.log("I really love pizza");

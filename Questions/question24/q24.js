@@ -6,7 +6,7 @@ var y = 20;
 var colors = ['Red', 'Yellow', 'Green', 'Blue'];
 console.log("myName == \"Kanwal\" => ".concat(myName == "Kanwal"));
 console.log("myName != \"Kanwal\" => ".concat(myName != "Kanwal"));
-console.log("Tests using the lower case function str1 == str2 => ".concat(str1 == str2));
+console.log("Tests using the lower case function str1 == str2 => ".concat(str1.toLowerCase() == str2.toLowerCase()));
 console.log("x == y => ".concat(x == y));
 console.log("x != y => ".concat(x != y));
 console.log("x > y => ".concat(x > y));
